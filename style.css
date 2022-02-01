@@ -1,0 +1,13 @@
+*::selection{
+    background-color: #81bcff;
+    color: currentColor;
+}
+
+
+.Mochi{
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.Dongle{
+    font-family: 'Dongle', sans-serif;
+}
